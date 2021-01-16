@@ -6,7 +6,7 @@ class JsonToMongo(object):
     def __open_file(self):
         self.file = open('result_mode.json', 'r')
         # 创建mongodb客户端
-        self.client = MongoClient('mongodb://admin:admin@119.23.222.7:27017')
+        self.client = MongoClient('url')
         # 创建数据库
         self.db = self.client.zhihu
         # 创建集合

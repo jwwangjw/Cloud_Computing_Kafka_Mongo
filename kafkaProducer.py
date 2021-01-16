@@ -7,7 +7,7 @@ import time
 
 def main():
     ##生产模块
-    producer = KafkaProducer(bootstrap_servers=['121.196.222.214:9092'])
+    producer = KafkaProducer(bootstrap_servers=['url'])
     with open('D:\QQfile\separateWord_day.json','r',encoding='utf8')as fp:
         json_data = json.load(fp)
         items = json_data.items()

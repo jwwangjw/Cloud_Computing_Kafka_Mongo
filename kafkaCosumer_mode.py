@@ -11,7 +11,7 @@ def start():
     sconf.set('spark.cores.max', 3).set('spark.io.compression.codec','snappy')
     sc = SparkContext(appName='txt', conf=sconf)
     ssc = StreamingContext(sc, 15)
-    brokers = "121.196.222.214:9092"
+    brokers = "url"
     topic = 'txt'
     user_data = KafkaUtils.createDirectStream(ssc, [topic], kafkaParams={"metadata.broker.list": brokers})
     gender_users = user_data.flatMap(lambda x:x[1].split(' ')).map(lambda gender: (gender, 1)).reduceByKey(lambda a, b: a + b)

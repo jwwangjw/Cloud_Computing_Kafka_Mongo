@@ -4,7 +4,7 @@ import time
 
 def main():
     ##生产模块
-    producer = KafkaProducer(bootstrap_servers=['121.196.222.214:9092'])
+    producer = KafkaProducer(bootstrap_servers=['url'])
     with open('D:/QQfile/answer_results.csv','r',encoding='utf8')as fp:
         reader=csv.reader(fp)
         data_temp=[]
