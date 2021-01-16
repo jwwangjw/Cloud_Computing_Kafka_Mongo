@@ -1,0 +1,1407 @@
+{
+    "2020-01-20": {
+        "negative": 2,
+        "postive": 10,
+        "neutral": 1
+    },
+    "2020-01-21": {
+        "negative": 12,
+        "postive": 22,
+        "neutral": 8
+    },
+    "2020-01-22": {
+        "neutral": 16,
+        "negative": 20,
+        "postive": 30
+    },
+    "2020-01-23": {
+        "negative": 47,
+        "postive": 47,
+        "neutral": 25
+    },
+    "2020-01-24": {
+        "neutral": 9,
+        "postive": 43,
+        "negative": 37
+    },
+    "2020-01-25": {
+        "negative": 21,
+        "neutral": 12,
+        "postive": 32
+    },
+    "2020-01-26": {
+        "negative": 36,
+        "postive": 50,
+        "neutral": 11
+    },
+    "2020-01-27": {
+        "negative": 39,
+        "postive": 58,
+        "neutral": 11
+    },
+    "2020-01-28": {
+        "negative": 37,
+        "postive": 47,
+        "neutral": 15
+    },
+    "2020-01-29": {
+        "negative": 22,
+        "postive": 40,
+        "neutral": 17
+    },
+    "2020-01-30": {
+        "postive": 43,
+        "negative": 44,
+        "neutral": 19
+    },
+    "2020-01-31": {
+        "postive": 59,
+        "negative": 42,
+        "neutral": 12
+    },
+    "2020-02-01": {
+        "postive": 29,
+        "negative": 19,
+        "neutral": 12
+    },
+    "2020-02-02": {
+        "neutral": 15,
+        "postive": 36,
+        "negative": 22
+    },
+    "2020-02-03": {
+        "postive": 26,
+        "neutral": 5,
+        "negative": 21
+    },
+    "2020-02-04": {
+        "neutral": 7,
+        "negative": 24,
+        "postive": 42
+    },
+    "2020-02-05": {
+        "negative": 26,
+        "postive": 32,
+        "neutral": 14
+    },
+    "2020-02-06": {
+        "postive": 20,
+        "negative": 13,
+        "neutral": 4
+    },
+    "2020-02-07": {
+        "negative": 24,
+        "postive": 19,
+        "neutral": 12
+    },
+    "2020-02-08": {
+        "neutral": 11,
+        "postive": 26,
+        "negative": 24
+    },
+    "2020-02-09": {
+        "postive": 25,
+        "negative": 12,
+        "neutral": 11
+    },
+    "2020-02-10": {
+        "negative": 17,
+        "postive": 14,
+        "neutral": 2
+    },
+    "2020-02-11": {
+        "postive": 21,
+        "negative": 17,
+        "neutral": 10
+    },
+    "2020-02-12": {
+        "postive": 11,
+        "negative": 10,
+        "neutral": 6
+    },
+    "2020-02-13": {
+        "negative": 22,
+        "postive": 29,
+        "neutral": 6
+    },
+    "2020-02-14": {
+        "negative": 14,
+        "postive": 19,
+        "neutral": 12
+    },
+    "2020-02-15": {
+        "postive": 9,
+        "negative": 4,
+        "neutral": 2
+    },
+    "2020-02-16": {
+        "negative": 17,
+        "postive": 13,
+        "neutral": 6
+    },
+    "2020-02-17": {
+        "negative": 4,
+        "postive": 9,
+        "neutral": 4
+    },
+    "2020-02-18": {
+        "negative": 4,
+        "neutral": 5,
+        "postive": 5
+    },
+    "2020-02-19": {
+        "postive": 22,
+        "negative": 26,
+        "neutral": 5
+    },
+    "2020-02-20": {
+        "negative": 23,
+        "postive": 16,
+        "neutral": 12
+    },
+    "2020-02-21": {
+        "postive": 32,
+        "negative": 23,
+        "neutral": 3
+    },
+    "2020-02-22": {
+        "postive": 41,
+        "neutral": 13,
+        "negative": 40
+    },
+    "2020-02-23": {
+        "negative": 21,
+        "postive": 21,
+        "neutral": 5
+    },
+    "2020-02-24": {
+        "postive": 33,
+        "neutral": 11,
+        "negative": 29
+    },
+    "2020-02-25": {
+        "postive": 37,
+        "negative": 20,
+        "neutral": 8
+    },
+    "2020-02-26": {
+        "postive": 16,
+        "negative": 15,
+        "neutral": 7
+    },
+    "2020-02-27": {
+        "postive": 30,
+        "negative": 18,
+        "neutral": 9
+    },
+    "2020-02-28": {
+        "negative": 39,
+        "postive": 41,
+        "neutral": 21
+    },
+    "2020-02-29": {
+        "neutral": 14,
+        "negative": 34,
+        "postive": 37
+    },
+    "2020-03-01": {
+        "negative": 26,
+        "postive": 40,
+        "neutral": 16
+    },
+    "2020-03-02": {
+        "postive": 20,
+        "negative": 21,
+        "neutral": 4
+    },
+    "2020-03-03": {
+        "negative": 29,
+        "postive": 21,
+        "neutral": 7
+    },
+    "2020-03-04": {
+        "postive": 24,
+        "negative": 22,
+        "neutral": 4
+    },
+    "2020-03-05": {
+        "postive": 27,
+        "negative": 28,
+        "neutral": 10
+    },
+    "2020-03-06": {
+        "negative": 24,
+        "postive": 27,
+        "neutral": 10
+    },
+    "2020-03-07": {
+        "negative": 21,
+        "postive": 26,
+        "neutral": 12
+    },
+    "2020-03-08": {
+        "negative": 22,
+        "neutral": 8,
+        "postive": 25
+    },
+    "2020-03-09": {
+        "negative": 37,
+        "postive": 42,
+        "neutral": 12
+    },
+    "2020-03-10": {
+        "postive": 56,
+        "neutral": 15,
+        "negative": 40
+    },
+    "2020-03-11": {
+        "postive": 58,
+        "negative": 54,
+        "neutral": 17
+    },
+    "2020-03-12": {
+        "postive": 45,
+        "negative": 42,
+        "neutral": 15
+    },
+    "2020-03-13": {
+        "postive": 58,
+        "negative": 30,
+        "neutral": 18
+    },
+    "2020-03-14": {
+        "negative": 33,
+        "postive": 40,
+        "neutral": 17
+    },
+    "2020-03-15": {
+        "negative": 39,
+        "neutral": 25,
+        "postive": 70
+    },
+    "2020-03-16": {
+        "postive": 70,
+        "neutral": 19,
+        "negative": 37
+    },
+    "2020-03-17": {
+        "postive": 74,
+        "negative": 38,
+        "neutral": 25
+    },
+    "2020-03-18": {
+        "postive": 44,
+        "negative": 43,
+        "neutral": 19
+    },
+    "2020-03-19": {
+        "postive": 51,
+        "negative": 40,
+        "neutral": 14
+    },
+    "2020-03-20": {
+        "postive": 54,
+        "negative": 54,
+        "neutral": 12
+    },
+    "2020-03-21": {
+        "negative": 47,
+        "postive": 56,
+        "neutral": 20
+    },
+    "2020-03-22": {
+        "negative": 58,
+        "neutral": 25,
+        "postive": 74
+    },
+    "2020-03-23": {
+        "postive": 33,
+        "negative": 35,
+        "neutral": 21
+    },
+    "2020-03-24": {
+        "postive": 29,
+        "negative": 33,
+        "neutral": 11
+    },
+    "2020-03-25": {
+        "negative": 49,
+        "postive": 62,
+        "neutral": 15
+    },
+    "2020-03-26": {
+        "negative": 33,
+        "neutral": 19,
+        "postive": 37
+    },
+    "2020-03-27": {
+        "negative": 56,
+        "neutral": 26,
+        "postive": 80
+    },
+    "2020-03-28": {
+        "postive": 48,
+        "negative": 42,
+        "neutral": 9
+    },
+    "2020-03-29": {
+        "neutral": 19,
+        "negative": 45,
+        "postive": 50
+    },
+    "2020-03-30": {
+        "negative": 51,
+        "postive": 64,
+        "neutral": 23
+    },
+    "2020-03-31": {
+        "postive": 38,
+        "negative": 34,
+        "neutral": 14
+    },
+    "2020-04-01": {
+        "negative": 42,
+        "postive": 50,
+        "neutral": 15
+    },
+    "2020-04-02": {
+        "neutral": 18,
+        "negative": 46,
+        "postive": 51
+    },
+    "2020-04-03": {
+        "postive": 73,
+        "negative": 62,
+        "neutral": 15
+    },
+    "2020-04-04": {
+        "postive": 69,
+        "neutral": 21,
+        "negative": 46
+    },
+    "2020-04-05": {
+        "negative": 50,
+        "postive": 50,
+        "neutral": 20
+    },
+    "2020-04-06": {
+        "negative": 50,
+        "postive": 52,
+        "neutral": 11
+    },
+    "2020-04-07": {
+        "postive": 39,
+        "neutral": 11,
+        "negative": 26
+    },
+    "2020-04-08": {
+        "negative": 42,
+        "postive": 57,
+        "neutral": 15
+    },
+    "2020-04-09": {
+        "postive": 43,
+        "negative": 47,
+        "neutral": 18
+    },
+    "2020-04-10": {
+        "neutral": 12,
+        "negative": 42,
+        "postive": 32
+    },
+    "2020-04-11": {
+        "neutral": 17,
+        "postive": 44,
+        "negative": 15
+    },
+    "2020-04-12": {
+        "postive": 27,
+        "negative": 23,
+        "neutral": 10
+    },
+    "2020-04-13": {
+        "postive": 36,
+        "neutral": 12,
+        "negative": 28
+    },
+    "2020-04-14": {
+        "postive": 31,
+        "negative": 39,
+        "neutral": 8
+    },
+    "2020-04-15": {
+        "postive": 45,
+        "negative": 36,
+        "neutral": 9
+    },
+    "2020-04-16": {
+        "postive": 18,
+        "negative": 14,
+        "neutral": 5
+    },
+    "2020-04-17": {
+        "negative": 40,
+        "postive": 39,
+        "neutral": 8
+    },
+    "2020-04-18": {
+        "negative": 13,
+        "postive": 15,
+        "neutral": 6
+    },
+    "2020-04-19": {
+        "negative": 8,
+        "postive": 6,
+        "neutral": 2
+    },
+    "2020-04-20": {
+        "negative": 10,
+        "postive": 7,
+        "neutral": 2
+    },
+    "2020-04-21": {
+        "postive": 9,
+        "negative": 9,
+        "neutral": 1
+    },
+    "2020-04-22": {
+        "negative": 23,
+        "postive": 30,
+        "neutral": 7
+    },
+    "2020-04-23": {
+        "neutral": 4,
+        "negative": 21,
+        "postive": 14
+    },
+    "2020-04-24": {
+        "postive": 12,
+        "negative": 13,
+        "neutral": 3
+    },
+    "2020-04-25": {
+        "negative": 16,
+        "neutral": 6,
+        "postive": 10
+    },
+    "2020-04-26": {
+        "postive": 30,
+        "negative": 24,
+        "neutral": 8
+    },
+    "2020-04-27": {
+        "postive": 23,
+        "negative": 10,
+        "neutral": 3
+    },
+    "2020-04-28": {
+        "postive": 13,
+        "negative": 14,
+        "neutral": 5
+    },
+    "2020-04-29": {
+        "postive": 17,
+        "negative": 10,
+        "neutral": 4
+    },
+    "2020-04-30": {
+        "negative": 17,
+        "postive": 16,
+        "neutral": 7
+    },
+    "2020-05-01": {
+        "negative": 23,
+        "neutral": 6,
+        "postive": 24
+    },
+    "2020-05-02": {
+        "negative": 13,
+        "neutral": 7,
+        "postive": 18
+    },
+    "2020-05-03": {
+        "postive": 11,
+        "negative": 8,
+        "neutral": 3
+    },
+    "2020-05-04": {
+        "negative": 5,
+        "neutral": 6,
+        "postive": 11
+    },
+    "2020-05-05": {
+        "negative": 10,
+        "postive": 22,
+        "neutral": 0
+    },
+    "2020-05-06": {
+        "postive": 7,
+        "negative": 4,
+        "neutral": 1
+    },
+    "2020-05-07": {
+        "postive": 4,
+        "negative": 8,
+        "neutral": 3
+    },
+    "2020-05-08": {
+        "negative": 11,
+        "postive": 9,
+        "neutral": 0
+    },
+    "2020-05-09": {
+        "negative": 5,
+        "neutral": 4,
+        "postive": 5
+    },
+    "2020-05-10": {
+        "postive": 17,
+        "negative": 5,
+        "neutral": 3
+    },
+    "2020-05-11": {
+        "postive": 3,
+        "negative": 2,
+        "neutral": 0
+    },
+    "2020-05-12": {
+        "postive": 4,
+        "negative": 2,
+        "neutral": 3
+    },
+    "2020-05-13": {
+        "postive": 17,
+        "negative": 7,
+        "neutral": 2
+    },
+    "2020-05-14": {
+        "negative": 8,
+        "neutral": 5,
+        "postive": 18
+    },
+    "2020-05-15": {
+        "negative": 4,
+        "postive": 4,
+        "neutral": 0
+    },
+    "2020-05-16": {
+        "negative": 7,
+        "postive": 10,
+        "neutral": 2
+    },
+    "2020-05-17": {
+        "postive": 3,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-05-18": {
+        "negative": 8,
+        "postive": 10,
+        "neutral": 0
+    },
+    "2020-05-19": {
+        "postive": 11,
+        "negative": 8,
+        "neutral": 3
+    },
+    "2020-05-20": {
+        "postive": 4,
+        "negative": 3,
+        "neutral": 1
+    },
+    "2020-05-21": {
+        "neutral": 2,
+        "postive": 4,
+        "negative": 1
+    },
+    "2020-05-22": {
+        "neutral": 5,
+        "postive": 8,
+        "negative": 1
+    },
+    "2020-05-23": {
+        "postive": 19,
+        "neutral": 7,
+        "negative": 4
+    },
+    "2020-05-24": {
+        "postive": 2,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-05-25": {
+        "postive": 5,
+        "negative": 1,
+        "neutral": 1
+    },
+    "2020-05-26": {
+        "postive": 1,
+        "neutral": 2,
+        "negative": 3
+    },
+    "2020-05-27": {
+        "negative": 3,
+        "postive": 3,
+        "neutral": 0
+    },
+    "2020-05-28": {
+        "postive": 5,
+        "neutral": 4,
+        "negative": 0
+    },
+    "2020-05-29": {
+        "postive": 5,
+        "negative": 2,
+        "neutral": 0
+    },
+    "2020-05-30": {
+        "postive": 6,
+        "negative": 10,
+        "neutral": 2
+    },
+    "2020-05-31": {
+        "negative": 5,
+        "postive": 4,
+        "neutral": 0
+    },
+    "2020-06-01": {
+        "postive": 1,
+        "negative": 2,
+        "neutral": 0
+    },
+    "2020-06-02": {
+        "negative": 11,
+        "postive": 7,
+        "neutral": 6
+    },
+    "2020-06-03": {
+        "negative": 1,
+        "neutral": 1,
+        "postive": 2
+    },
+    "2020-06-04": {
+        "negative": 8,
+        "postive": 5,
+        "neutral": 1
+    },
+    "2020-06-05": {
+        "negative": 9,
+        "postive": 9,
+        "neutral": 2
+    },
+    "2020-06-06": {
+        "neutral": 2,
+        "negative": 1,
+        "postive": 0
+    },
+    "2020-06-07": {
+        "postive": 2,
+        "negative": 3,
+        "neutral": 0
+    },
+    "2020-06-08": {
+        "postive": 11,
+        "negative": 4,
+        "neutral": 1
+    },
+    "2020-06-09": {
+        "postive": 4,
+        "neutral": 0,
+        "negative": 0
+    },
+    "2020-06-12": {
+        "postive": 1,
+        "neutral": 0,
+        "negative": 0
+    },
+    "2020-06-13": {
+        "negative": 17,
+        "postive": 19,
+        "neutral": 5
+    },
+    "2020-06-14": {
+        "postive": 22,
+        "negative": 21,
+        "neutral": 9
+    },
+    "2020-06-15": {
+        "negative": 6,
+        "neutral": 2,
+        "postive": 6
+    },
+    "2020-06-16": {
+        "negative": 8,
+        "postive": 8,
+        "neutral": 2
+    },
+    "2020-06-17": {
+        "postive": 6,
+        "negative": 2,
+        "neutral": 1
+    },
+    "2020-06-18": {
+        "postive": 7,
+        "neutral": 2,
+        "negative": 3
+    },
+    "2020-06-19": {
+        "negative": 14,
+        "postive": 11,
+        "neutral": 5
+    },
+    "2020-06-20": {
+        "negative": 5,
+        "postive": 7,
+        "neutral": 2
+    },
+    "2020-06-22": {
+        "negative": 3,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-06-23": {
+        "negative": 11,
+        "postive": 5,
+        "neutral": 3
+    },
+    "2020-06-24": {
+        "postive": 3,
+        "negative": 7,
+        "neutral": 0
+    },
+    "2020-06-26": {
+        "neutral": 1,
+        "postive": 5,
+        "negative": 2
+    },
+    "2020-06-27": {
+        "neutral": 7,
+        "postive": 12,
+        "negative": 6
+    },
+    "2020-06-29": {
+        "postive": 6,
+        "negative": 2,
+        "neutral": 2
+    },
+    "2020-06-30": {
+        "negative": 4,
+        "postive": 7,
+        "neutral": 0
+    },
+    "2020-07-01": {
+        "neutral": 1,
+        "postive": 2,
+        "negative": 0
+    },
+    "2020-07-02": {
+        "postive": 1,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-07-03": {
+        "neutral": 3,
+        "postive": 0,
+        "negative": 0
+    },
+    "2020-07-04": {
+        "negative": 6,
+        "neutral": 3,
+        "postive": 6
+    },
+    "2020-07-05": {
+        "negative": 3,
+        "postive": 1,
+        "neutral": 0
+    },
+    "2020-07-06": {
+        "postive": 3,
+        "neutral": 1,
+        "negative": 1
+    },
+    "2020-07-07": {
+        "negative": 7,
+        "postive": 6,
+        "neutral": 0
+    },
+    "2020-07-08": {
+        "postive": 11,
+        "negative": 11,
+        "neutral": 2
+    },
+    "2020-07-09": {
+        "negative": 7,
+        "neutral": 2,
+        "postive": 5
+    },
+    "2020-07-10": {
+        "postive": 6,
+        "negative": 7,
+        "neutral": 0
+    },
+    "2020-07-11": {
+        "neutral": 2,
+        "postive": 2,
+        "negative": 0
+    },
+    "2020-07-13": {
+        "postive": 2,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-07-14": {
+        "negative": 13,
+        "postive": 7,
+        "neutral": 5
+    },
+    "2020-07-15": {
+        "negative": 4,
+        "postive": 6,
+        "neutral": 1
+    },
+    "2020-07-16": {
+        "postive": 2,
+        "negative": 3,
+        "neutral": 0
+    },
+    "2020-07-17": {
+        "negative": 1,
+        "postive": 1,
+        "neutral": 0
+    },
+    "2020-07-18": {
+        "negative": 3,
+        "postive": 3,
+        "neutral": 2
+    },
+    "2020-07-19": {
+        "postive": 9,
+        "negative": 11,
+        "neutral": 3
+    },
+    "2020-07-20": {
+        "postive": 4,
+        "negative": 9,
+        "neutral": 1
+    },
+    "2020-07-21": {
+        "negative": 5,
+        "postive": 4,
+        "neutral": 1
+    },
+    "2020-07-22": {
+        "postive": 16,
+        "negative": 11,
+        "neutral": 10
+    },
+    "2020-07-23": {
+        "postive": 4,
+        "neutral": 2,
+        "negative": 2
+    },
+    "2020-07-24": {
+        "postive": 4,
+        "negative": 3,
+        "neutral": 2
+    },
+    "2020-07-25": {
+        "postive": 1,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-07-27": {
+        "postive": 3,
+        "negative": 1,
+        "neutral": 1
+    },
+    "2020-07-28": {
+        "negative": 2,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-07-29": {
+        "negative": 6,
+        "postive": 14,
+        "neutral": 3
+    },
+    "2020-07-30": {
+        "postive": 4,
+        "negative": 4,
+        "neutral": 0
+    },
+    "2020-07-31": {
+        "negative": 1,
+        "postive": 1,
+        "neutral": 0
+    },
+    "2020-08-01": {
+        "neutral": 1,
+        "postive": 3,
+        "negative": 1
+    },
+    "2020-08-02": {
+        "postive": 7,
+        "negative": 5,
+        "neutral": 1
+    },
+    "2020-08-03": {
+        "negative": 3,
+        "neutral": 2,
+        "postive": 10
+    },
+    "2020-08-04": {
+        "postive": 4,
+        "negative": 2,
+        "neutral": 0
+    },
+    "2020-08-06": {
+        "postive": 3,
+        "neutral": 2,
+        "negative": 0
+    },
+    "2020-08-07": {
+        "neutral": 1,
+        "postive": 2,
+        "negative": 1
+    },
+    "2020-08-08": {
+        "postive": 2,
+        "neutral": 1,
+        "negative": 0
+    },
+    "2020-08-09": {
+        "postive": 13,
+        "negative": 7,
+        "neutral": 2
+    },
+    "2020-08-10": {
+        "postive": 1,
+        "neutral": 0,
+        "negative": 0
+    },
+    "2020-08-11": {
+        "postive": 4,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-08-12": {
+        "negative": 2,
+        "postive": 3,
+        "neutral": 2
+    },
+    "2020-08-13": {
+        "postive": 2,
+        "neutral": 3,
+        "negative": 4
+    },
+    "2020-08-14": {
+        "negative": 1,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-08-15": {
+        "negative": 5,
+        "postive": 6,
+        "neutral": 2
+    },
+    "2020-08-16": {
+        "negative": 7,
+        "postive": 2,
+        "neutral": 1
+    },
+    "2020-08-17": {
+        "postive": 12,
+        "negative": 5,
+        "neutral": 6
+    },
+    "2020-08-18": {
+        "postive": 2,
+        "negative": 6,
+        "neutral": 2
+    },
+    "2020-08-19": {
+        "negative": 2,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-08-22": {
+        "neutral": 1,
+        "postive": 0,
+        "negative": 0
+    },
+    "2020-08-25": {
+        "postive": 5,
+        "negative": 6,
+        "neutral": 7
+    },
+    "2020-08-26": {
+        "neutral": 3,
+        "negative": 2,
+        "postive": 0
+    },
+    "2020-08-27": {
+        "negative": 2,
+        "neutral": 1,
+        "postive": 1
+    },
+    "2020-08-29": {
+        "negative": 1,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-08-30": {
+        "postive": 2,
+        "negative": 1,
+        "neutral": 1
+    },
+    "2020-08-31": {
+        "negative": 2,
+        "postive": 3,
+        "neutral": 0
+    },
+    "2020-09-01": {
+        "negative": 7,
+        "neutral": 4,
+        "postive": 8
+    },
+    "2020-09-02": {
+        "negative": 1,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-09-03": {
+        "neutral": 1,
+        "postive": 1,
+        "negative": 0
+    },
+    "2020-09-05": {
+        "negative": 2,
+        "postive": 5,
+        "neutral": 2
+    },
+    "2020-09-06": {
+        "postive": 2,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-09-07": {
+        "postive": 1,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-09-08": {
+        "negative": 4,
+        "postive": 10,
+        "neutral": 2
+    },
+    "2020-09-09": {
+        "negative": 1,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-09-10": {
+        "negative": 5,
+        "neutral": 1,
+        "postive": 0
+    },
+    "2020-09-11": {
+        "postive": 4,
+        "negative": 7,
+        "neutral": 0
+    },
+    "2020-09-13": {
+        "postive": 2,
+        "neutral": 0,
+        "negative": 0
+    },
+    "2020-09-16": {
+        "postive": 1,
+        "neutral": 1,
+        "negative": 2
+    },
+    "2020-09-17": {
+        "postive": 5,
+        "negative": 2,
+        "neutral": 1
+    },
+    "2020-09-18": {
+        "postive": 8,
+        "negative": 5,
+        "neutral": 1
+    },
+    "2020-09-19": {
+        "negative": 5,
+        "neutral": 1,
+        "postive": 3
+    },
+    "2020-09-25": {
+        "postive": 12,
+        "negative": 3,
+        "neutral": 0
+    },
+    "2020-09-29": {
+        "postive": 10,
+        "negative": 10,
+        "neutral": 2
+    },
+    "2020-09-30": {
+        "postive": 7,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-10-01": {
+        "negative": 6,
+        "postive": 8,
+        "neutral": 3
+    },
+    "2020-10-02": {
+        "postive": 12,
+        "negative": 6,
+        "neutral": 0
+    },
+    "2020-10-03": {
+        "negative": 1,
+        "postive": 3,
+        "neutral": 0
+    },
+    "2020-10-06": {
+        "negative": 5,
+        "neutral": 2,
+        "postive": 14
+    },
+    "2020-10-07": {
+        "neutral": 1,
+        "negative": 8,
+        "postive": 3
+    },
+    "2020-10-08": {
+        "postive": 4,
+        "negative": 1,
+        "neutral": 0
+    },
+    "2020-10-09": {
+        "negative": 1,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-10-11": {
+        "postive": 9,
+        "negative": 8,
+        "neutral": 0
+    },
+    "2020-10-12": {
+        "negative": 7,
+        "postive": 15,
+        "neutral": 1
+    },
+    "2020-10-13": {
+        "postive": 12,
+        "negative": 3,
+        "neutral": 2
+    },
+    "2020-10-14": {
+        "neutral": 1,
+        "postive": 1,
+        "negative": 1
+    },
+    "2020-10-15": {
+        "postive": 4,
+        "neutral": 4,
+        "negative": 0
+    },
+    "2020-10-16": {
+        "postive": 20,
+        "neutral": 4,
+        "negative": 7
+    },
+    "2020-10-17": {
+        "negative": 1,
+        "neutral": 3,
+        "postive": 6
+    },
+    "2020-10-18": {
+        "neutral": 2,
+        "postive": 0,
+        "negative": 0
+    },
+    "2020-10-19": {
+        "neutral": 1,
+        "postive": 2,
+        "negative": 0
+    },
+    "2020-10-20": {
+        "postive": 5,
+        "negative": 4,
+        "neutral": 2
+    },
+    "2020-10-21": {
+        "postive": 4,
+        "negative": 5,
+        "neutral": 2
+    },
+    "2020-10-22": {
+        "negative": 6,
+        "postive": 4,
+        "neutral": 0
+    },
+    "2020-10-23": {
+        "negative": 1,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-10-24": {
+        "neutral": 1,
+        "postive": 1,
+        "negative": 0
+    },
+    "2020-10-25": {
+        "postive": 7,
+        "neutral": 1,
+        "negative": 3
+    },
+    "2020-10-26": {
+        "neutral": 4,
+        "negative": 6,
+        "postive": 6
+    },
+    "2020-10-27": {
+        "negative": 13,
+        "postive": 8,
+        "neutral": 1
+    },
+    "2020-10-28": {
+        "negative": 9,
+        "postive": 5,
+        "neutral": 3
+    },
+    "2020-10-29": {
+        "postive": 1,
+        "neutral": 1,
+        "negative": 0
+    },
+    "2020-10-30": {
+        "negative": 1,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-10-31": {
+        "neutral": 8,
+        "postive": 7,
+        "negative": 6
+    },
+    "2020-11-01": {
+        "postive": 3,
+        "negative": 5,
+        "neutral": 0
+    },
+    "2020-11-02": {
+        "negative": 1,
+        "postive": 5,
+        "neutral": 0
+    },
+    "2020-11-03": {
+        "negative": 2,
+        "neutral": 1,
+        "postive": 0
+    },
+    "2020-11-05": {
+        "negative": 5,
+        "neutral": 3,
+        "postive": 11
+    },
+    "2020-11-06": {
+        "negative": 4,
+        "postive": 1,
+        "neutral": 0
+    },
+    "2020-11-07": {
+        "postive": 2,
+        "negative": 3,
+        "neutral": 0
+    },
+    "2020-11-08": {
+        "negative": 11,
+        "postive": 17,
+        "neutral": 1
+    },
+    "2020-11-09": {
+        "negative": 7,
+        "postive": 8,
+        "neutral": 1
+    },
+    "2020-11-10": {
+        "negative": 5,
+        "postive": 14,
+        "neutral": 1
+    },
+    "2020-11-11": {
+        "postive": 3,
+        "negative": 11,
+        "neutral": 0
+    },
+    "2020-11-12": {
+        "postive": 6,
+        "neutral": 1,
+        "negative": 2
+    },
+    "2020-11-13": {
+        "postive": 6,
+        "neutral": 2,
+        "negative": 3
+    },
+    "2020-11-14": {
+        "negative": 1,
+        "neutral": 0,
+        "postive": 0
+    },
+    "2020-11-16": {
+        "neutral": 1,
+        "negative": 3,
+        "postive": 3
+    },
+    "2020-11-17": {
+        "postive": 19,
+        "negative": 5,
+        "neutral": 10
+    },
+    "2020-11-18": {
+        "negative": 1,
+        "postive": 3,
+        "neutral": 3
+    },
+    "2020-11-19": {
+        "postive": 9,
+        "negative": 7,
+        "neutral": 3
+    },
+    "2020-11-20": {
+        "postive": 3,
+        "neutral": 0,
+        "negative": 0
+    },
+    "2020-11-21": {
+        "postive": 9,
+        "negative": 10,
+        "neutral": 0
+    },
+    "2020-11-24": {
+        "postive": 6,
+        "negative": 15,
+        "neutral": 0
+    },
+    "2020-11-25": {
+        "postive": 2,
+        "negative": 6,
+        "neutral": 2
+    },
+    "2020-11-26": {
+        "postive": 13,
+        "negative": 8,
+        "neutral": 3
+    },
+    "2020-11-27": {
+        "postive": 3,
+        "negative": 3,
+        "neutral": 0
+    }
+}
